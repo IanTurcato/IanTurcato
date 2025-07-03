@@ -40,7 +40,9 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
   Página interativa com tema de jogo, com animações, formulário de download e tema claro/escuro.
 
 ## Contato  
-📫 Você pode me contatar pelo e-mail: ianturcato@hotmail.com  
+- E-mail: (ianturcato@hotmail.com)  
+- Instagram: [@ian_turcato](https://instagram.com/ian_turcato)  
+- LinkedIn: [Ian Turcato](https://linkedin.com/in/ian-turcato)
 
 ---
 
